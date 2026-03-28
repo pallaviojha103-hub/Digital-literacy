@@ -42,23 +42,23 @@ In this task, I wrote two professional emails — one requesting an assignment e
 I prepared a case study on UPI payment fraud and created a prevention checklist. This task helped me understand common cyber threats and how to stay safe online.
 
 ##Tools & Platforms Used:-
-Canva
-GitHub
-LinkedIn
-Kaggle
-HackerRank
+Canva <br>
+GitHub<br>
+LinkedIn<br>
+Kaggle<br>
+HackerRank<br>
 Google Forms
 
 ##Project Report The complete project report is available in the report/ folder.
 
 ##References
 
-https://www.canva.com
-https://www.github.com
-https://www.linkedin.com
-https://www.kaggle.com
-https://www.hackerrank.com
-https://forms.google.com
-https://cybercrime.gov.in
+https://www.canva.com <br>
+https://www.github.com <br>
+https://www.linkedin.com <br>
+https://www.kaggle.com <br>
+https://www.hackerrank.com <br>
+https://forms.google.com <br>
+https://cybercrime.gov.in <br>
 ## Conclusion
 This project helped me develop practical digital skills, improve communication, and understand online safety. It has enhanced my ability to use digital tools effectively in academics and future professional
